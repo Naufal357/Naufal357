@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naufal-rozan-73187a21b) 
 
 # 💻 Tech Stack:
-[![wakatime](https://wakatime.com/badge/user/d072925a-1c0a-4f4d-a332-6ca63a7b8b27.svg)](https://wakatime.com/@d072925a-1c0a-4f4d-a332-6ca63a7b8b27)
+<!-- [![wakatime](https://wakatime.com/badge/user/d072925a-1c0a-4f4d-a332-6ca63a7b8b27.svg)](https://wakatime.com/@d072925a-1c0a-4f4d-a332-6ca63a7b8b27) -->
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
